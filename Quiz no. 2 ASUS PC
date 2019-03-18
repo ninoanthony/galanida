@@ -1,0 +1,49 @@
+PC : ASUS P5GC/1333 INTEL
+
+PC problem/error: PC won't boot to bios.
+
+
+Possible causes:
+
+1. Faulty RAM
+
+    Solutions :
+
+    Make sure it is properly seated.
+
+    Try transfering to another slot or rotate it.
+
+    Replace it.
+
+2. Faulting PCI cards
+
+    Solutions :
+
+    Check if the power supply gives the right voltage through a regulator.
+
+3. Misplaced front panel connectors.
+
+    Solutions :
+
+    See to it that the connectors are properly placed and connected.
+
+4. Missing power supply cables.
+
+    Solutions :
+
+    Check the 24 pin ATX cable and the 4-pin or 8-pin CPU connector.
+
+    Make sure the cables are properly connected.
+
+5. The CPU is dead.
+
+    Solutions :
+
+    Replace the CPU.
+
+6.The PSU is not working properly.
+
+    Solutions :
+
+    Replace it with a working one. 
+
