@@ -1,0 +1,8 @@
+Problem :
+
+The Raspberry pi didn't turn on when we troubleshoot it, but it worked when the other section troubleshoot it.
+
+
+Solution :
+
+During our troubleshooting process, the charger we used wasn't compatible with the raspberry pi B since the mode B uses between 1000mA depending on what peripherals are connected. On our final troubleshooting, we connected the right and compatible charger and finally it was functional and still working. 
